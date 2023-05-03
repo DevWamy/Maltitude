@@ -1,4 +1,4 @@
-![logo](src/assets/img/logo.jpg)
+![logo](src/assets/img/logo.png)
 
 
 - ![Author](https://img.shields.io/badge/Author-Nadia%20Bolivant-blue)
