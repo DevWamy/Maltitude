@@ -1,4 +1,4 @@
-![logo](src/assets/logo.jpg)
+![logo](src/assets/img/logo.jpg)
 
 
 - ![Author](https://img.shields.io/badge/Author-Nadia%20Bolivant-blue)
@@ -10,7 +10,7 @@
 
 ### General information
 
-This repository contains all the source code to run the Countries-app an application that gives information about the different countries of the world.
+This repository contains all the source code to run the Maltitude an application that gives information about different beers.
 
 ## Prerequisites
 
