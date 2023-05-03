@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Playfair Display';
+    src: url(https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@400;700;900&display=swap);
+}
+
+@font-face {
+    font-family: 'Abril Fatface';
+    src: url(https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap);
+}
+
+$font-1: 'Playfair Display', serif;
+$font-2: 'Abril Fatface', cursive;
+
+$color-1: #1e90ff;
+$color-2: #8b4513;
+$color-3: #ffa500;
+$color-4: #707070;
+$color-6: #ff6600;
+$white: rgb(243, 243, 243);
+
+@mixin verticalCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $font-2;
+    background: $white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $font-1;
+}
+
+li {
+    list-style-type: none;
+}
