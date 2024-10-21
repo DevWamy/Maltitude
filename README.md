@@ -30,7 +30,7 @@ If you are working with several versions of NodeJS, we recommend you install [nv
 - Fork and clone the repository on your computer.
 
 ````bash
-git clone https://github.com/DevWamy/countries-app.git
+https://github.com/DevWamy/Maltitude-punk-api-frontend-.git
 ````
 
 - Package installations after cloning.
